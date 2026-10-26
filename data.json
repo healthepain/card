@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nickname": "Askelad",
+    "name": "Lucius Artorius",
+    "who": "Roman general and statesman",
+    "img": "./images/lucius.jpg"
+  },
+  {
+    "id": 2,
+    "nickname": "Thorfinn Karlsefni",
+    "who": "Icelandic explorer",
+    "img": "./images/thorfin.jpg"
+  },
+  {
+    "id": 3,
+    "nickname": "Canute the Great",
+    "who": "Danish king",
+    "img": "./images/canute.webp"
+  },
+  {
+    "id": 4,
+    "nickname": "Floch Forster",
+    "who": "Former recruit of the Scout Regiment",
+    "img": "./images/floch.jpg"
+  },
+  {
+    "id": 5,
+    "nickname": "Mikasa Ackerman",
+    "who": "The last descendant of the Shogun clan that stayed on Paradis Island",
+    "img": "./images/mikasa.webp"
+  },
+  {
+    "id": 6,
+    "nickname": "Violet Evergarden",
+    "who": "Former child soldier who becomes an Auto Memory Doll tasked with writing letters intended to connect people",
+    "img": "./images/violet.webp"
+  },
+  {
+    "id": 7,
+    "nickname": "Mikey",
+    "name":"Manjiro Sano",
+    "who": "Founding member and the former Leader of the Tokyo Manji Gang",
+    "img": "./images/mikey.webp"
+  },
+  {
+    "id": 8,
+    "nickname": "Orsted",
+    "who": "Dragon God",
+    "img": "./images/orsted.jpg"
+  },
+  {
+    "id": 9,
+    "nickname": "Reze",
+    "who": "One of many children taken by the USSR and placed in a special government program to make super-soldiers dedicated to the country",
+    "img": "./images/reze.jpg"
+  },
+  {
+    "id": 10,
+    "nickname": "King",
+    "who": "The Strongest Man on Earth",
+    "img": "./images/king.webp"
+  }, {
+    "id": 11,
+    "nickname": "Saitama",
+    "who": "Just a hero for fun",
+    "img": "./images/saitama.png"
+  }, {
+    "id": 12,
+    "nickname": "Guts",
+    "who": "Black Swordsman",
+    "img": "./images/guts.webp"
+  }
+]
